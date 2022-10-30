@@ -1,1 +1,1 @@
-web: python3 -m uvicorn main:app
+web: guvicorn main:app
